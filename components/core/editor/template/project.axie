@@ -1,0 +1,15 @@
+{
+    "name": "{{PROJECT_NAME}}",
+    "version": "{{VERSION}}",
+    "created": "{{CREATED_DATE}}",
+    "modified": "{{MODIFIED_DATE}}",
+    "assets": [],
+    "scenes": [],
+    "settings": {
+        "resolution": [1280, 720],
+        "default_scene": "main",
+        "physics": {
+            "gravity": 980
+        }
+    }
+}
